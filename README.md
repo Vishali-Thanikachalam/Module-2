@@ -19,7 +19,7 @@ print(binary_number)
 
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus, the program has been executed successfully.
 
 # Functions in Python: Modulo Calculator
 
@@ -50,7 +50,7 @@ b = int(input())
 
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus, the program has been executed successfully.
 
 # Lambda Function in Python: Addition of Two Numbers
 
@@ -74,7 +74,7 @@ print(f(a,b))
 <img width="732" height="239" alt="Screenshot 2025-10-20 134207" src="https://github.com/user-attachments/assets/f8a89cfc-93f2-470a-a224-1d2c3a52e535" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus, the program has been executed successfully.
 
 # 🔺 Looping(Patterns)-Pascal's Triangle Generator in Python
 
@@ -119,7 +119,7 @@ for i in range(1,n+1):
 <img width="909" height="533" alt="Screenshot 2025-10-20 135028" src="https://github.com/user-attachments/assets/6070b79c-d7eb-4208-9203-38bf0fecbce7" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus, the program has been executed successfully.
 
 ## Loops in Python: Palindrome Number Checker
 
@@ -157,4 +157,4 @@ else:
 
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus, the program has been executed successfully.
