@@ -19,4 +19,4 @@ print(binary_number)
 <img width="1030" height="185" alt="image" src="https://github.com/user-attachments/assets/fabd0eab-6b05-437e-9029-3c11bf6c6953" />
 
 ## Result
-Thus, the program has been executed sucessfully
+Thus, the program has been executed sucessfully.
